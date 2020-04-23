@@ -1,7 +1,5 @@
-# Introduction
-This app was created as a part of a [Udemy course](https://www.udemy.com/share/101WsWAEMScldUQn8F/) I am taking (April 2020). The goal was to create a xylophone; when a key was pressed, the button must flash and play the appropriate tone.
-
 # Xylophone
+This app was created as a part of a [Udemy course](https://www.udemy.com/share/101WsWAEMScldUQn8F/) I am taking (April 2020). The goal was to create a xylophone; when a key was pressed, the button must flash and play the appropriate tone.
 
 ## Lesson Objectives
 
